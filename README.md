@@ -7,7 +7,7 @@ should be able to read easily. I chose to do this project because I wanted this 
 and I like looking at stats. On the other hand, I did this project, so I can learn how API's and 
 making calls to servers work. I wanted to understand how that code works, and now I can better understand it.
 
-[Software Demo Video](https://youtu.be/1d5eHfJrzhY)
+[Baseball Stats](https://youtu.be/1d5eHfJrzhY)
 
 # Development Environment
 
