@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/dO9cH4w3CKtQ9HCTeKollJ8Lcjhmfk+sk4AhBSm1Gm0o7ISf5Sut4mX6m/tHrHTa8buShWElggXrM6EFAhFuQ==",
+  "success": true,
+  "projectFilePath": "/Users/peytonhaws/Documents/AppliedProgramming/BaseballStats/BaseballStats/BaseballStats.csproj",
+  "expectedPackageFiles": [
+    "/Users/peytonhaws/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/peytonhaws/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/Users/peytonhaws/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/peytonhaws/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
