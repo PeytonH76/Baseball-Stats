@@ -16,3 +16,4 @@
 /Users/peytonhaws/Documents/AppliedProgramming/BaseballStats/BaseballStats/obj/Debug/net8.0/BaseballStats.genruntimeconfig.cache
 /Users/peytonhaws/Documents/AppliedProgramming/BaseballStats/BaseballStats/obj/Debug/net8.0/ref/BaseballStats.dll
 /Users/peytonhaws/Documents/AppliedProgramming/BaseballStats/BaseballStats/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/peytonhaws/Documents/AppliedProgramming/BaseballStats/BaseballStats/obj/Debug/net8.0/BaseballStats.sourcelink.json

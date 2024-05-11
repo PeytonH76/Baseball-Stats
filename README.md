@@ -5,11 +5,9 @@ that will be called and changed in other classes. This code also uses the extend
 key word. This code will ask the user certain details, and it will convert the server JSON into data that the user
 should be able to read easily. I chose to do this project because I wanted this program for myself. I like watching baseball
 and I like looking at stats. On the other hand, I did this project, so I can learn how API's and 
-making calls to servers work. I wanted to understand how that code works and now I can better understand it.
+making calls to servers work. I wanted to understand how that code works, and now I can better understand it.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1d5eHfJrzhY)
 
 # Development Environment
 
